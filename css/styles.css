@@ -1,0 +1,110 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Merriweather', serif;  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+a{
+  color: #00ffff;
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: #7b68ee;
+}
+
+hr{
+  border-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.code{
+  width: 50%;
+}
+
+.team{
+  width: 50%;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding: 20px 0;
+}
+
+p{
+  line-height: 2;
+}
+
+.footer-link{
+  color: #00fa9a;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  font-family: 'Merriweather', serif;
+}
+
+.Web{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 40px;
+}
